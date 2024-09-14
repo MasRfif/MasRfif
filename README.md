@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MasRfif
 - 👀 I’m interested in FullstackDev
-- 🌱 I’m currently learning FundementalPrograming
+- 🌱 I’m currently learning Express
 - 🌱 I’m currently making a Event Web
 - 💞️ I’m looking to collaborate on WebDev
 - 📫 How to reach me Instagram=@mas_Rfif
