@@ -34,29 +34,6 @@ I'm a student at **Telkom University** interested in building practical digital 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-## Featured Projects
-
-### 🏘️ The Village
-
-A village event information and ticketing system designed around smart village concepts.
-
-**Stack:** React · PHP · MySQL
-
-### 🏫 Smart Campus
-
-A smart classroom and campus integration concept combining IoT, attendance, room automation, and digital services.
-
-**Stack:** IoT · Web · Mobile
-
-### 🌊 LaporBanjir
-
-A flood reporting prototype for citizens to report flood conditions and water levels.
-
-**Stack:** Laravel · Blade · Tailwind CSS
-
----
 
 ## GitHub Activity
 
@@ -64,6 +41,17 @@ A flood reporting prototype for citizens to report flood conditions and water le
   <img src="https://github-readme-stats.vercel.app/api?username=MasRfif&show_icons=true&hide_border=true&theme=transparent" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasRfif&layout=compact&hide_border=true&theme=transparent" height="170">
 </p>
+
+---
+
+## 🎧 Music
+
+**Currently listening to:**  
+[Кино — Спокойная ночь](https://www.youtube.com/results?search_query=Кино+Спокойная+ночь)
+
+`Russian Post-Punk` · `Post-Punk` · `Coldwave` · `Darkwave`
+
+> Кино / Molchat Doma / Human Tetris / Ploho / Буерак
 
 ---
 
