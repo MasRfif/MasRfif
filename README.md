@@ -71,9 +71,18 @@ A flood reporting prototype for citizens to report flood conditions and water le
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MasRfif/MasRfif/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MasRfif/MasRfif/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MasRfif/MasRfif/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MasRfif/MasRfif/gh-pages/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MasRfif/MasRfif/gh-pages/github-contribution-grid-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/MasRfif/MasRfif/gh-pages/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    >
   </picture>
 </p>
 
