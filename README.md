@@ -1,4 +1,4 @@
-# Hi, I'm Naufal Rafif Nurqodri 👋
+# Hi, I'm Miracle 👋
 
 ### Smart City Information Systems Student · Developer · Builder
 
